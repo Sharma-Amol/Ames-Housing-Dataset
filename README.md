@@ -11,6 +11,8 @@ Feature engineering is the use of techniques that transform the raw data into a 
 
 The goal of this exercise is to perform Feature Engineering on Ames Housing Dataset which contains missing data and both numerical and categorical features. 
 
+This exercise and associated files were provided as part of the excellent course 'Python for Machine Learning and Data Science Masterclass' by Jose Portilla on [Udemy](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/), which I completed.
+
 ## Dataset
 [Ames](https://github.com/Sharma-Amol/Ames-Housing-Dataset/blob/main/Ames_Housing_Data.csv)
 
